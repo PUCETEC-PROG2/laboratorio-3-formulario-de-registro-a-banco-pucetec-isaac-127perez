@@ -200,3 +200,5 @@ Si subes tu trabajo a GitHub, las pruebas se ejecutarán automáticamente en cad
 
 ---
 ¡Listo! Con esto completas el "Laboratorio 3. Formulario de registro a PUCE Banco" solo con HTML. Si algo no funciona, revisa que los **id** y los **for** coincidan y que todos los **required** estén bien escritos.
+
+forzar autograde
